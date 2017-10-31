@@ -1,0 +1,7 @@
+C:\Sample projects\Apt Helper\Apt Helper\bin\Debug\Apt Helper.exe.config
+C:\Sample projects\Apt Helper\Apt Helper\bin\Debug\Apt Helper.exe
+C:\Sample projects\Apt Helper\Apt Helper\bin\Debug\Apt Helper.pdb
+C:\Sample projects\Apt Helper\Apt Helper\obj\Debug\Apt Helper.csprojResolveAssemblyReference.cache
+C:\Sample projects\Apt Helper\Apt Helper\obj\Debug\Apt Helper.csproj.CoreCompileInputs.cache
+C:\Sample projects\Apt Helper\Apt Helper\obj\Debug\Apt Helper.exe
+C:\Sample projects\Apt Helper\Apt Helper\obj\Debug\Apt Helper.pdb
