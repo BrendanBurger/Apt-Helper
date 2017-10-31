@@ -10,17 +10,33 @@ namespace Apt_Finder
 
 
     {
+        public static int[] nums = new int[5];
         public static List<Apartment> apts = new List<Apartment>();
 
         //Get top 5
         public void Sort()
         {
-            apts.OrderBy(p => p.score);
+         
+       
 
         }
         static void Main(string[] args)
         {
-           for (int i = 0; i < 32; i++)
+            nums[0] = 4;
+            nums[1] = 9;
+            nums[2] = 4;
+            nums[3] = 2;
+            nums[4] = 12;
+           
+            Array.Sort(nums);
+            foreach (int i in nums)
+            {
+                Console.Out.WriteLine(i);
+            }
+          
+
+            
+           for (int i = 0; i < 3; i++)
             {
                 Console.WriteLine("Street name");
                 String temp = Console.ReadLine();
@@ -103,23 +119,27 @@ namespace Apt_Finder
                 Console.WriteLine("enter square space max:5");
                 temp2 = Int32.Parse(Console.ReadLine());
                 a.sqrSpace = temp2;
+
                 a.computeScore();
                 a.print();
                 apts.Add(a);
            }
 
 
-            apts.Sort();
+            apts.OrderBy(p => p.score).ToList();
 
 
-            for (int i = 0; i<4;  i++)
+            for (int i = 0; i<apts.Count;  i++)
             {
-                Console.WriteLine(i + 1 + apts.ElementAt(i).name + apts.ElementAt(i).score);
+                Console.WriteLine(apts.ElementAt(i).name + apts.ElementAt(i).score);
             }
-
-            }
+            Console.ReadLine();
+        }
+       
+            
         }
 
     }
+
 
  
