@@ -14,13 +14,6 @@ namespace Apt_Finder
         public static List<Apartment> apts = new List<Apartment>();
 
 
-        //Get top 5
-        public void Sort()
-        {
-         
-       
-
-        }
         static void Main(string[] args)
         {
 
@@ -28,11 +21,11 @@ namespace Apt_Finder
             {
                 Console.Out.WriteLine(i);
             }
-           
-          
 
-            
-           for (int i = 0; i < 30; i++)
+
+
+
+            for (int i = 0; i < 30; i++)
             {
                 Console.WriteLine("Street name");
                 String temp = Console.ReadLine();
@@ -72,7 +65,7 @@ namespace Apt_Finder
                 temp2 = Int32.Parse(Console.ReadLine());
                 a.parking = temp2;
 
-             
+
                 Console.WriteLine("enter rooms max:3");
                 temp2 = Int32.Parse(Console.ReadLine());
                 a.rooms = temp2;
@@ -119,23 +112,23 @@ namespace Apt_Finder
                 a.computeScore();
                 a.print();
                 apts.Add(a);
-           }
+            }
 
 
-          List<Apartment> Top  = apts.OrderByDescending(p => p.score).ToList();
+            List<Apartment> Top = apts.OrderByDescending(p => p.score).ToList();
 
 
-            for (int i = 0; i<Top.Count;  i++)
+            for (int i = 0; i < Top.Count; i++)
             {
                 Console.WriteLine(Top.ElementAt(i).name + " " + Top.ElementAt(i).score);
             }
             Console.ReadLine();
         }
-       
-            
-        }
+
 
     }
 
+}
 
- 
+
+

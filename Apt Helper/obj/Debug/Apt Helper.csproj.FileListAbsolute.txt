@@ -5,3 +5,9 @@ C:\Sample projects\Apt Helper\Apt Helper\obj\Debug\Apt Helper.csprojResolveAssem
 C:\Sample projects\Apt Helper\Apt Helper\obj\Debug\Apt Helper.csproj.CoreCompileInputs.cache
 C:\Sample projects\Apt Helper\Apt Helper\obj\Debug\Apt Helper.exe
 C:\Sample projects\Apt Helper\Apt Helper\obj\Debug\Apt Helper.pdb
+C:\Users\brend\Documents\OpenSource_Projects\Apt\Apt-Helper\Apt Helper\bin\Debug\Apt Helper.exe.config
+C:\Users\brend\Documents\OpenSource_Projects\Apt\Apt-Helper\Apt Helper\bin\Debug\Apt Helper.exe
+C:\Users\brend\Documents\OpenSource_Projects\Apt\Apt-Helper\Apt Helper\bin\Debug\Apt Helper.pdb
+C:\Users\brend\Documents\OpenSource_Projects\Apt\Apt-Helper\Apt Helper\obj\Debug\Apt Helper.csprojResolveAssemblyReference.cache
+C:\Users\brend\Documents\OpenSource_Projects\Apt\Apt-Helper\Apt Helper\obj\Debug\Apt Helper.exe
+C:\Users\brend\Documents\OpenSource_Projects\Apt\Apt-Helper\Apt Helper\obj\Debug\Apt Helper.pdb
