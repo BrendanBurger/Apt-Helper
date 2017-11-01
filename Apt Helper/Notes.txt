@@ -5,40 +5,60 @@ Ruth 66
 
 
 pennwood 65
+
 douglas 64
 shadycrest64
 kenmount 64
 california 64
-Liberty ave 60
-chess street 62
-simon 58
-bailey 54
-joshphine55
-aiken 57
-ella 62
-vernon 59
-wisconsin 62
-center 60
-south ave 53
-north ave 55
-eend 55
-tolma 56
-biddle 63
-mellon 55
-coleridge 63
-negley 53
-murray 56
-hoodridge 63
 
-chateaugay 62
+coleridge 63
+biddle 63
+murray 63
+hoodridge 63
 abbeyville 63
-dorchestor 52
-glendale 58
-fernwlad 54
 beechwood 63
 
+wisconsin 62
+chateaugay 62
+chess street 62
+ella 62
+
+wenzell 61
+
+center 60
+Liberty ave 60
+
+vernon 59
 greenlee 59
 
-crucible 54
-wenzell 61
+simon 58
+glendale 58
+
+aiken 57
+hillsdale 57
+
+tolma 56
+
 reuban 55
+joshphine55
+north ave 55
+eend 55
+mellon 55
+
+bailey 54
+crucible 54
+fernwlad 54
+
+south ave 53
+negley 53
+
+dorchestor 52
+
+
+
+
+
+
+
+
+
