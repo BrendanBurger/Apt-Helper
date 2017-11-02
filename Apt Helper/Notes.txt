@@ -1,18 +1,13 @@
 Top 3
 welfer 68          *Ruth 66 ? if he responds back : move one up
+beechwood 67
 california 64
+hoodridge 64
+abbeyville 64
 
 
 
 
-
-
-coleridge 63
-biddle 63
-murray 63
-hoodridge 63
-abbeyville 63
-beechwood 63
 shadycrest63
 
 chelton 62
@@ -34,9 +29,11 @@ luzzo 60
 
 vernon 59
 greenlee 59
+coleridge 59
 
 simon 58
 glendale 58
+biddle 58
 
 aiken 57
 hillsdale 57
@@ -55,6 +52,7 @@ fernwlad 54
 
 south ave 53
 negley 53
+murray 53
 
 dorchestor 52
 
