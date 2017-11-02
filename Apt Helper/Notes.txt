@@ -1,15 +1,11 @@
 Top 3
-howe 71
-welfer 68
-Ruth 66
-
-
-pennwood 65
-
-douglas 64
-shadycrest64
-kenmount 64
+welfer 68          *Ruth 66 ? if he responds back : move one up
 california 64
+
+
+
+
+
 
 coleridge 63
 biddle 63
@@ -17,16 +13,24 @@ murray 63
 hoodridge 63
 abbeyville 63
 beechwood 63
+shadycrest63
 
+chelton 62
+howe 62
 wisconsin 62
 chateaugay 62
 chess street 62
 ella 62
+kenmount 62
 
 wenzell 61
+pennwood 61
+douglas 61
 
+wenzell66 (60)
 center 60
 Liberty ave 60
+luzzo 60
 
 vernon 59
 greenlee 59

@@ -66,7 +66,7 @@ namespace Apt_Finder
                 a.parking = temp2;
 
 
-                Console.WriteLine("enter rooms max:3");
+                Console.WriteLine("enter rooms max:3    2*PER");
                 temp2 = Int32.Parse(Console.ReadLine());
                 a.rooms = temp2;
 
@@ -96,7 +96,7 @@ namespace Apt_Finder
                 a.floors = temp2;
 
 
-                Console.WriteLine("enter crime max :10");
+                Console.WriteLine("enter crime max :5");
                 temp2 = Int32.Parse(Console.ReadLine());
                 a.crime = temp2;
 
