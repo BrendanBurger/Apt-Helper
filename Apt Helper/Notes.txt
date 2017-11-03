@@ -1,10 +1,11 @@
 Top 3
 welfer 68          *Ruth 66 ? if he responds back : move one up
+south ave 68
 beechwood 67
+
+
+
 hoodridge 64
-
-
-
 shadycrest63
 abbeyville 63
 
@@ -47,7 +48,7 @@ chess street 55
 bailey 54
 crucible 54
 fernwlad 54
-wisconsin 62
+wisconsin 54
 
 south ave 53
 negley 53
