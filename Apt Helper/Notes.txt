@@ -1,6 +1,9 @@
 Top 3
+3034 brereton 71
 welfer 68          *Ruth 66 ? if he responds back : move one up
 south ave 68
+
+
 beechwood 67
 
 
@@ -19,12 +22,14 @@ howe 62
 ella 62
 kenmount 62
 boggs 62
+153 S bryant 62
 
 wenzell 61
 pennwood 61
 douglas 61
 1207 w north shore ave
 222 alphine 61
+3809 brighton
 
 wenzell66 (60)
 center 60
@@ -47,6 +52,8 @@ aiken 57
 hillsdale 57
 52 n bryant 57
 624 west ave 57
+belthoover 57
+142 sprague 57
 
 tolma 56
 1524 mcfarland
