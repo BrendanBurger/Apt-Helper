@@ -4,8 +4,14 @@ south ave 68
 beechwood 67
 
 
+meade 66
+
+birmingham 65 
+
 
 hoodridge 64
+3618 baytree 64
+
 shadycrest63
 abbeyville 63
 
@@ -17,6 +23,8 @@ boggs 62
 wenzell 61
 pennwood 61
 douglas 61
+1207 w north shore ave
+222 alphine 61
 
 wenzell66 (60)
 center 60
@@ -37,8 +45,11 @@ chateaugay 58
 
 aiken 57
 hillsdale 57
+52 n bryant 57
+624 west ave 57
 
 tolma 56
+1524 mcfarland
 
 reuban 55
 joshphine55
@@ -60,7 +71,7 @@ murray 53
 sycamore
 
 dorchestor 52
-
+maple 51
 
 
 
