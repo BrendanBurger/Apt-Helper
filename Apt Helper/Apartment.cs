@@ -16,18 +16,18 @@ namespace Apt_Finder
         public int score = 0;
         public int commute = 0; // 0 - 10
         public int price = 0; // 0 - 10 
-        public int utils = 0; // 0 - 10
         public int looks_in = 0; // 0 - 10
+        public int rooms = 0; // 2 - 8 *2 for each
+        public int utils = 0; // 0 - 7
         public int schools = 0; // 0 - 7
         public int parking = 0;//0 - 7
         public int neighborhood = 0; // 1 - 7
-        public int rooms = 0; // 2 - 6 *2 for each
+        public int starting = 0; // 1 - 7
         public int crime = 0; // 0 - 5
         public int yard = 0; //  0 - 5
         public int bonus = 0; // 0 - 5 
         public int hills = 0; // 1 - 5
         public int sqrSpace = 0; // 0 - 5
-        public int starting = 0; // 1 - 5
         public int floors = 1; // 1 - 2
         public int house = 0; // 0 - 1
         

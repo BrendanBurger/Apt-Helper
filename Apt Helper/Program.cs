@@ -56,7 +56,7 @@ namespace Apt_Finder
                 a.looks_in = temp2;
 
 
-                Console.WriteLine("enter utils max:10");
+                Console.WriteLine("enter utils max:7");
                 temp2 = Int32.Parse(Console.ReadLine());
                 a.utils = temp2;
 
@@ -66,7 +66,7 @@ namespace Apt_Finder
                 a.parking = temp2;
 
 
-                Console.WriteLine("enter rooms max:3    2*PER");
+                Console.WriteLine("enter rooms max:7    2*PER");
                 temp2 = Int32.Parse(Console.ReadLine());
                 a.rooms = temp2;
 
@@ -76,7 +76,7 @@ namespace Apt_Finder
                 a.bonus = temp2;
 
 
-                Console.WriteLine("enter neighborhood max:5");
+                Console.WriteLine("enter neighborhood max:7");
                 temp2 = Int32.Parse(Console.ReadLine());
                 a.neighborhood = temp2;
 
@@ -86,7 +86,7 @@ namespace Apt_Finder
                 a.hills = temp2;
 
 
-                Console.WriteLine("enter starting max :5");
+                Console.WriteLine("enter starting max :7");
                 temp2 = Int32.Parse(Console.ReadLine());
                 a.starting = temp2;
 

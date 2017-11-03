@@ -1,20 +1,14 @@
 Top 3
 welfer 68          *Ruth 66 ? if he responds back : move one up
 beechwood 67
-california 64
 hoodridge 64
-abbeyville 64
-
 
 
 
 shadycrest63
+abbeyville 63
 
-chelton 62
 howe 62
-wisconsin 62
-chateaugay 62
-chess street 62
 ella 62
 kenmount 62
 
@@ -26,14 +20,17 @@ wenzell66 (60)
 center 60
 Liberty ave 60
 luzzo 60
+chelton 60
 
 vernon 59
 greenlee 59
 coleridge 59
 
+california 58
 simon 58
 glendale 58
 biddle 58
+chateaugay 58
 
 aiken 57
 hillsdale 57
@@ -45,10 +42,12 @@ joshphine55
 north ave 55
 eend 55
 mellon 55
+chess street 55
 
 bailey 54
 crucible 54
 fernwlad 54
+wisconsin 62
 
 south ave 53
 negley 53
