@@ -1,6 +1,6 @@
 Top 3
 3034 brereton 71
-welfer 68          *Ruth 66 ? if he responds back : move one up
+welfer 68          
 south ave 68
 
 
@@ -8,6 +8,8 @@ beechwood 67
 
 
 meade 66
+*Ruth 66 ? 
+
 
 birmingham 65 
 
