@@ -1,14 +1,14 @@
 Top 3
-3034 brereton 71 (polish hill)
+*3034 brereton 71 (polish hill)
 408south ave 68 (Wilkensburg)
 *beechwood 67 (Squarre hill) 11/8
 
 Top 5
 *meade 66 (point breeze) 11/13
-park view 66
+*park view 66
 
 
-birmingham 65 
+115 birmingham 65 
 
 
 hoodridge 64
@@ -18,6 +18,7 @@ governor 64
 shadycrest63
 abbeyville 63
 davison square 63
+5815 5th ave 63
 
 howe 62
 ella 62
@@ -34,6 +35,7 @@ douglas 61
 3809 brighton
 cato 61
 marchand 61
+stevens 61
 
 wenzell66 (60)
 center 60
@@ -42,6 +44,7 @@ luzzo 60
 chelton 60
 *welfer 60  (greenfield)  Tues 11/6 
 merwyn 60
+318 maple
 
 vernon 59
 greenlee 59
@@ -89,6 +92,7 @@ south ave 53
 negley 53
 murray 53
 sycamore
+woodland 53
 
 dorchestor 52
 maple 51
