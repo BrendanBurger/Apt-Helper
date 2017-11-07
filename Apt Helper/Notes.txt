@@ -1,13 +1,10 @@
 Top 3
 3034 brereton 71 (polish hill)
-*welfer 68  (greenfield)        
 408south ave 68 (Wilkensburg)
+*beechwood 67 (Squarre hill) 11/8
 
-
-*beechwood 67 (Squarre hill)
-
-
-meade 66 (point breeze)
+Top 5
+*meade 66 (point breeze) 11/13
 park view 66
 
 
@@ -27,6 +24,7 @@ ella 62
 kenmount 62
 boggs 62
 153 S bryant 62
+502 semlpe 62
 
 wenzell 61
 pennwood 61
@@ -42,6 +40,8 @@ center 60
 Liberty ave 60
 luzzo 60
 chelton 60
+*welfer 60  (greenfield)  Tues 11/6 
+merwyn 60
 
 vernon 59
 greenlee 59
@@ -49,6 +49,8 @@ coleridge 59
 ulysys
 fairlane 59
 gerber 59
+amanda st 59
+hillsdale 59
 
 california 58
 simon 58
@@ -66,6 +68,7 @@ belthoover 57
 
 tolma 56
 1524 mcfarland
+3411 ward st
 
 reuban 55
 joshphine55
@@ -75,6 +78,7 @@ mellon 55
 chess street 55
 plymouth 55
 grace 55
+mifflin 55
 
 bailey 54
 crucible 54
