@@ -1,6 +1,7 @@
 Top 3
 *3034 brereton 71 (polish hill)
 408south ave 68 (Wilkensburg)
+3241 W libertyve 68
 *beechwood 67 (Squarre hill) 11/8
 
 Top 5
@@ -26,6 +27,7 @@ kenmount 62
 boggs 62
 153 S bryant 62
 502 semlpe 62
+penn ave 62
 
 wenzell 61
 pennwood 61
@@ -45,6 +47,7 @@ chelton 60
 *welfer 60  (greenfield)  Tues 11/6 
 merwyn 60
 318 maple
+winebiddle 60
 
 vernon 59
 greenlee 59
@@ -54,6 +57,8 @@ fairlane 59
 gerber 59
 amanda st 59
 hillsdale 59
+morewood 59
+redrose 59
 
 california 58
 simon 58
