@@ -1,16 +1,17 @@
 Top 3
-*3034 brereton 71 (polish hill)
-408south ave 68 (Wilkensburg)
-3241 W libertyve 68
-*beechwood 67 (Squarre hill) 11/8
+408 south ave 68 (Wilkensburg)
+3241 W liberty ave 68
+5526 ellsworth 67
+
 
 Top 5
-*meade 66 (point breeze) 11/13
-*park view 66
+
+*parkview 66 11/20 Monday
+*meade 66 (point breeze) 11/13 Monday
+
 
 
 115 birmingham 65 
-
 
 hoodridge 64
 3618 baytree 64
@@ -38,6 +39,7 @@ douglas 61
 cato 61
 marchand 61
 stevens 61
+272 kennedy
 
 wenzell66 (60)
 center 60
@@ -48,6 +50,7 @@ chelton 60
 merwyn 60
 318 maple
 winebiddle 60
+7358 whipple
 
 vernon 59
 greenlee 59
