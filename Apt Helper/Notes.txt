@@ -3,13 +3,11 @@ Top 3
 *104 E north ave 68 - Sent Email 
 *5526 ellsworth 67 (shadyside) call -> 412-661-6622
 
-
 Top 5
 *parkview 66 (North shore) 11/20 Monday 
-*meade 66 (point breeze) 11/16 Thurs
+*meade 66 (point breeze) Reschedule
 324 coal 66
 3645 liberty ave 66
-
 
 115 birmingham 65 (avalon)
 
@@ -17,6 +15,8 @@ hoodridge 64
 3618 baytree 64
 governor 64
 *408 south ave 68 (Wilkensburg) 11/14 Tues 
+1308 sheffield 64
+1319 woodbourne 64
 
 shadycrest63
 abbeyville 63
@@ -60,6 +60,7 @@ merwyn 60
 winebiddle 60
 7358 whipple
 moravian way 60
+Cedar Ave 60
 
 vernon 59
 greenlee 59
@@ -72,6 +73,7 @@ hillsdale 59
 morewood 59
 redrose 59
 simen 59
+hazelwood 59
 
 california 58
 simon 58
@@ -81,6 +83,8 @@ chateaugay 58
 woodruff 58
 mckinlley 58
 1122 lakewood 58
+1522 brington
+
 
 aiken 57
 hillsdale 57
