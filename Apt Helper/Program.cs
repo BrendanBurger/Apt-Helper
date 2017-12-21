@@ -31,7 +31,7 @@ namespace Apt_Finder
                 String temp = Console.ReadLine();
                 Apartment a = new Apartment(temp);
 
-                Console.WriteLine("enter commute max: 10");
+                Console.WriteLine("enter work commute max: 10");
                 int temp2 = Int32.Parse(Console.ReadLine());
                 a.commute = temp2;
 
