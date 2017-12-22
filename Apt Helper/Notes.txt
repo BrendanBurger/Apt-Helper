@@ -1,26 +1,20 @@
 Park View to be top choice, depending on availabilty
 
 Top 3
-*3241 W liberty ave 68 (South hills) - Waiting to hear back 
-*104 E north ave 68 - Sent Email 
-*5526 ellsworth 67 (shadyside) call -> 412-661-6622
+*meade 69 (point breeze) Reschedule
+*5526 ellsworth 65 (shadyside) call -> 412-661-6622
 
-Top 5
-*parkview 66 (North shore) 11/20 Monday 
-*meade 66 (point breeze) Reschedule
-324 coal 66
 3645 liberty ave 66
-
-115 birmingham 65 (avalon)
 
 hoodridge 64
 3618 baytree 64
 governor 64
-*408 south ave 68 (Wilkensburg) 11/14 Tues 
 1308 sheffield 64
 1319 woodbourne 64
-git 
-shadycrest63
+433 s pacific 64
+313 gross
+
+shadycrest 63
 abbeyville 63
 davison square 63
 5815 5th ave 63
@@ -51,6 +45,7 @@ stevens 61
 4619 liberty ave 61
 135 cape may
 1942 arlington 
+115 birmingham 61 (avalon)
 
 wenzell66 (60)
 center 60
@@ -64,6 +59,7 @@ winebiddle 60
 7358 whipple
 moravian way 60
 Cedar Ave 60
+1207 kelton
 
 vernon 59
 greenlee 59
@@ -77,6 +73,7 @@ morewood 59
 redrose 59
 simen 59
 hazelwood 59
+324 coal 58
 
 california 58
 simon 58
@@ -98,6 +95,7 @@ belthoover 57
 1446 reuben st
 tennessee 57
 foster 57
+*104 E north ave 57 - Sent Email 
 
 tolma 56
 1524 mcfarland
