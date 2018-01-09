@@ -2,10 +2,10 @@ Park View to be top choice, depending on availabilty
 
 Top 3
 711 hoodridge 80
-940 sleepy hollow rd
 wenzell 70
 
 hoodridge 67
+3421 liberty 67
 
 *5526 ellsworth 65 (shadyside) call -> 412-661-6622
 23 ann arbor 65
@@ -14,6 +14,7 @@ hoodridge 67
 
 433 s pacific 64
 313 gross
+5706 walnut
 
 shadycrest 63
 abbeyville 63
@@ -23,6 +24,7 @@ davison square 63
 7544 calumet
 wasington 63
 goldstrom 63
+206 stratford
 
 howe 62
 ella 62
